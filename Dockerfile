@@ -1,4 +1,4 @@
-FROM php:5.6.19-fpm
+FROM php:5.6.29-fpm
 MAINTAINER Franck Lemoine <franck.lemoine@flem.fr>
 
 # properly setup debian sources
