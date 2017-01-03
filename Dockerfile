@@ -35,4 +35,3 @@ RUN buildDeps=' \
 	rm -rf /tmp/*
 
 CMD ["php-fpm"]
-
